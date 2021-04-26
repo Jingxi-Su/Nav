@@ -1,0 +1,12 @@
+11
+46C:\Users\Lenovo\Desktop\demo\19.Nav\.gitignore132639217022931196 0
+49C:\Users\Lenovo\Desktop\demo\19.Nav\src\style.css132639243409261497 0
+39C:\Users\Lenovo\Desktop\demo\19.Nav\src132639243116472012 1
+40C:\Users\Lenovo\Desktop\demo\19.Nav\dist132639245006098642 1
+58C:\Users\Lenovo\Desktop\demo\19.Nav\dist\index.de98438c.js132639245006038540 0
+50C:\Users\Lenovo\Desktop\demo\19.Nav\src\index.html132639244099587160 0
+59C:\Users\Lenovo\Desktop\demo\19.Nav\dist\index.0f3acf2f.css132639245006038540 0
+47C:\Users\Lenovo\Desktop\demo\19.Nav\src\main.js132639243281101248 0
+63C:\Users\Lenovo\Desktop\demo\19.Nav\dist\index.0f3acf2f.css.map132639245006088669 0
+62C:\Users\Lenovo\Desktop\demo\19.Nav\dist\index.de98438c.js.map132639245006088669 0
+51C:\Users\Lenovo\Desktop\demo\19.Nav\dist\index.html132639245006028559 0
